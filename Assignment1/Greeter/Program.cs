@@ -22,4 +22,10 @@ Console.WriteLine($"Hello, {fullName} Ji");
 
 Console.WriteLine($"Your DOB is {DOB.ToString("dddd, dd MMMM yyyy")}.");
 
+Console.WriteLine($"You are {years} years {months} months {weeks} weeks and {days} days old. \n");
 
+// EXTRA
+
+Console.WriteLine($"You are {totalDays} days old");
+Console.WriteLine($"You are {totalHours} hours old");
+Console.WriteLine($"You are {totalMinutes} minutes old");
